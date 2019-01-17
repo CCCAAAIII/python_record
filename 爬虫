@@ -1,0 +1,12 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [爬虫](#爬虫)
+	- [图片验证码的处理](#图片验证码的处理)
+
+<!-- /TOC -->
+# 爬虫
+## 1. 图片验证码的处理(4种方式)
+- cookie模拟登录
+- orc 文字识别技术 tesseract
+- 打码平台
+- selmum模拟拖动图像验证码（滑动验证码）

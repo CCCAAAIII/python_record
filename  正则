@@ -1,0 +1,7 @@
+- [正则](#正则)
+	- [1. python 正则中匹配小括号时要把小括号加上[]](#1-python-正则中匹配小括号时要把小括号加上)
+
+<!-- /TOC -->
+# 正则
+## 1. python 正则中匹配小括号时要把小括号加上[]
+例如：`r'a[(]1[)]'`<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
