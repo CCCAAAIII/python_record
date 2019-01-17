@@ -1,0 +1,5 @@
+
+# 爬虫
+## fake_useragent
+获取随机ua
+```pip install fake_useragent```
